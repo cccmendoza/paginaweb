@@ -34,7 +34,27 @@ ul {
 /*FIN ESTILOS PARA EL HEADER*/
 
 /*INICIO ESTILOS PARA EL CONTENIDO*/
-
+.TEXTO {
+    border: 1px solid gray;
+    padding: 8px;
+  }
+  
+  h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+  }
+  
+  p {
+    font-size: large;
+    text-align: justify;
+    letter-spacing: 3px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #008CBA;
+  }
 
 /*FIN ESTILOS PARA EL CONTENIDO*/
 
